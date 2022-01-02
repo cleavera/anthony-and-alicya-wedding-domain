@@ -1,0 +1,9 @@
+{
+  "extends": "./node_modules/@cleavera/config/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist"
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

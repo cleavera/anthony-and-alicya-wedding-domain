@@ -1,0 +1,1 @@
+export const CONNECTION_STRING: string = '#{CONNECTION_STRING}#';
